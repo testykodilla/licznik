@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+body {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 4em;
+	color: #8A0707;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	font-weight: bold;
+	background: url(https://vignette.wikia.nocookie.net/christmasspecials/images/b/b2/Gargamel.jpg/revision/latest?cb=20130321192952);
+	background-size: cover;
+}
